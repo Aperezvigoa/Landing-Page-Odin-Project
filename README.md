@@ -17,3 +17,7 @@ Professional landing page created as part of The Odin Project's Foundations curr
 - **Responsive Design** (No Media queries)
 - **Git** (Version control)
 - **Visual Studio Code** (Development environment)
+
+## See the result
+
+https://aperezvigoa.github.io/Landing-Page-Odin-Project/
